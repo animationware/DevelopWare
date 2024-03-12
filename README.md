@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,blender,ps,ai,sketchup)](https://skillicons.dev)
 
  ### 👉 Software & Tools
- [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,sublime,postman,git,github,unity,godot,npm)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,sublime,postman,git,github,unity,godot,npm,androidstudio)](https://skillicons.dev)
 
 <details> 
   <summary><b>Language Skills</b></summary>
