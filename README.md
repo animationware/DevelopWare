@@ -3,7 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Professional+Developer;Cryptography+Student;Cryptocurrency+Enthusiast;Full+Stack+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I'm an intermediate Software Developer. I work independently to create professional applications for all platforms, including Android, iOS, and websites. I enjoy coding, designing, innovating, and experimenting with new technologies. I am an enthusiastic and social person who loves taking on new challenges, sharing knowledge, and learning new skills. I enjoy meeting new people to exchange great ideas and collaborate on new projects.</h4>
+<h4 align="center">I’m a passionate and independent Software Developer with experience building professional applications across platforms — including Android, iOS, and the web.
+I thrive on coding, designing, and experimenting with new technologies. As a curious and collaborative individual, I enjoy taking on challenges, learning new skills, and sharing knowledge.
+I love meeting people with great ideas and working together to create innovative solutions.</h4>
 <br>
 
 ## 🛠️ My Skills
@@ -31,7 +33,7 @@
   <summary><b>Language Skills</b></summary>
   <br/>
   <p align="center">
-   English 85%
+   English 100%
   </p>
 <p align="center">
    Spanish 100%
