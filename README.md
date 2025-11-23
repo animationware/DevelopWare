@@ -33,7 +33,7 @@ I love meeting people with great ideas and working together to create innovative
   <summary><b>Language Skills</b></summary>
   <br/>
   <p align="center">
-   English 100%
+   English 80%
   </p>
 <p align="center">
    Spanish 100%
